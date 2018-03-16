@@ -3,6 +3,7 @@
         "es6": true
     },
     "extends": [
+        "airbnb/base",
         "prettier",
         "prettier/react"
     ],
